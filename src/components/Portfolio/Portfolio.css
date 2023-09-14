@@ -1,0 +1,29 @@
+.layer{
+    background-color: #1ABA9F;
+    opacity:0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transition: all 0.5s ;
+}
+.layer:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
+#image-layer{
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed!important;
+    background-color:#0D6EFD40;
+}
+.image-container{
+    cursor: pointer;
+}
+
+.portfolio-header{
+    color: #2C3E50;
+}

@@ -1,0 +1,14 @@
+
+.w-15{
+    width: 15%;
+}
+#home,#about {
+    background-color:#1ABC9C;
+    min-height: 100vh;
+}
+.small-line-white{
+
+    height: 5px;
+    width:70px;
+    background-color: white;
+}

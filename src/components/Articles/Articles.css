@@ -1,0 +1,9 @@
+
+.articles{
+    background-color: #384958;
+}
+
+.articles li:hover{
+    background-color: #4e6276;
+    cursor: pointer;
+}
